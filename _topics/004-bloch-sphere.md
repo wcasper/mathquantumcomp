@@ -92,10 +92,13 @@ We will use the Bloch sphere later as an important tool in aiding our understand
 **Question:** What qubit does the point on $$(\sqrt{2}/4,\sqrt{6}/4,\sqrt{2}/2)$$ correspond to?
 <details>
   <summary>Click for answer.</summary>
-  In spherical coordinates, the angles are $$\theta = \pi/4$$ and $$\phi = \pi/3$$.
+  In spherical coordinates, the angles are
+
+  $$\theta = \pi/4\quad\text{and}\quad \phi = \pi/3$$.
+
   Therefore the qubit is
 
-  $$\ket\psi = \cos(\pi/8)\ket0 + e^{i\pi/3}\sin(\pi/8)\ket1.$$
+  $$\ket\psi = \cos(\pi/8)\ket0 + (1/2 + i\sqrt{3}/2)\sin(\pi/8)\ket1.$$
 </details>
 
 
