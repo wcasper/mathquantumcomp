@@ -69,8 +69,9 @@ In this way, we can think of the projective line $$\mathbb{CP}^1$$ and the spher
 Starting with a qubit $$\ket\phi = a\ket0 + b\ket1$$, we can multiply it by any global phase factor $$e^{i\theta}$$ and get a new qubit which is indistinguishable from the first.
 By convention, we usually multiply by $$e^{-i\arg(a)}$$ so that the first coefficient $$a$$ becomes real, or else if $$a=0$$ we can make $$b=1$$.
 With this in mind, we will call a qubit with $$a$$ real (or $$a=0$$ and $$b=1$$) in **standard form**.
+Given a symbol $$[a:b]$$, there is a unique choice of $$a,b$$ which satisfies the normalization condition that $$\lvert a\rvert^2 + \lvert b\rvert^2 = 1$$ and the condition that $$a$$.
+In this way, qubits in standard form are in bijection with points in $$\mathbb{CP}^1$$ and thus with points on the sphere.
 
-Points in $$\mathbb{CP}^1$$ are in bijective correspondence with qubits in standard form.
 Thus if we ignore the global phase, we can represent a qubit $$\ket\psi$$ as a point on the sphere $$S^2$$.
 When we are using points on the sphere to represent qubits in this way, we call it the **Bloch sphere**.
 
