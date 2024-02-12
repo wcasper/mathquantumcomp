@@ -18,7 +18,7 @@ In this way, we can idenify qubit states with points in the complex projective l
 The **complex projective line**, denoted by $$\mathbb{CP}^1$$ is the set of all lines in $$\mathbb C^2$$ passing through the origin.
 Any line is completely determined by two points, and since ech of these lines contains the origin, it is determined by a single point $$(a,b)\in\mathbb{C}^2$$ different from the origin.
 However, different points might determine the same line!
-For example, the line passing through the origin and $$(i,2+i)$$ is the same as the one passing through the origin and $$(1,1-2i)$$.  The reason is that the vector $$\binom{i}{2+i}$$ and the vector $$\binom{1,1-2i}$$ are scalar multiples of one-another!  In fact $$\binom{1}{1-2i} = -i\binom{i}{2+i}$$.
+For example, the line passing through the origin and $$(i,2+i)$$ is the same as the one passing through the origin and $$(1,1-2i)$$.  The reason is that the vector $$\binom{i}{2+i}$$ and the vector $$\binom{1}{1-2i}$$ are scalar multiples of one-another!  In fact $$\binom{1}{1-2i} = -i\binom{i}{2+i}$$.
 So in the end we can describe lines uniquely by symbols $$[a:b]$$ where here $$a,b\in\mathbb{C}$$, with at least one nonzero, and with the rule that
 
 $$[a: b] = [c:d]\quad\text{if and only if}\quad \binom{c}{d}=\lambda\binom{a}{b}$$ for some nonzero $$\lambda\in\mathbb{C}$$.
