@@ -6,7 +6,7 @@ title: Bloch sphere
 For reasons that we will discuss later on, there is a part of a qubit that we cannot observe or measure.
 Start with a generic qubit $$\ket\psi = a\ket 0 + b\ket 1$$ and $$\theta\in [0,2\pi)$$.  Then
 
-$$\ket\phi  = e^{i\theta}\ket\psi = ae^{i\theta}\ket 0 + be^{i\theta}\ket 1$$
+$$\ket\varphi  = e^{i\theta}\ket\psi = ae^{i\theta}\ket 0 + be^{i\theta}\ket 1$$
 
 and $$\ket\psi$$ are **indistinguishable** by any measurement.  The multiple $$e^{i\theta}$$ is called a **global phase factor**.
 Since different qubits which differ only by this global phase can't be differentiated, we might as well think of them as the same.
