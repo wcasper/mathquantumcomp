@@ -77,7 +77,7 @@ When we are using points on the sphere to represent qubits in this way, we call 
 
 Specifically, a point on the unit sphere in sphereical coordinates can be represented by two angles: the angle $$\theta$$ vertically from the $$z$$-axis, and the angle $$\phi$$ horizontally from the $$x$$-axis.
 
-<p align="center"><img width=400 src="fig/blochsphere.png"/></p>
+<p align="center"><img width=300 src="fig/blochsphere.png"/></p>
 
 In Cartesian coordinates, the corresponding point is $$(\sin\theta\cos\phi,\sin\theta\sin\phi,\cos\theta)$$.
 
