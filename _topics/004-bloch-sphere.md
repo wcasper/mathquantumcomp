@@ -9,7 +9,7 @@ Start with a generic qubit $$\ket\psi = a\ket 0 + b\ket 1$$ and $$\theta\in [0,2
 $$\ket\phi  = e^{i\theta}\ket\psi = ae^{i\theta}\ket 0 + be^{i\theta}\ket 1$$
 
 and $$\ket\psi$$ are **indistinguishable** by any measurement.  The multiple $$e^{i\theta}$$ is called a **global phase factor**.
-Since different qubits which differ only by this global phase can't be differentiated, we might as well think of them as effecively the same.
+Since different qubits which differ only by this global phase can't be differentiated, we might as well think of them as the same.
 In this way, we can idenify qubit states with points in the complex projective line.
 
 
