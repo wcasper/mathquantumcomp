@@ -19,10 +19,10 @@ Physicists and engineers use all kinds of interesting tactics for this, includin
 * using polarized states of photons,
 
 and many more.
-However, these are problems about the hardware.
+However, these topics have to do with the hardware of a quantum computer.
 Our goal is to understand the *mathematics* that will be needed to understand current quantum algorithms and create new algorithms, on whatever sort of quantum computers are built in the future.
 
-## what is a Qubit
+## What is a Qubit
 We need a mathematical object which describes something which is simultaneously a $$0$$ with a certain probability and a $$1$$ with another certain probability.
 Mathematically, this is easy to accomplish.
 
@@ -47,7 +47,7 @@ When we **observe** the state of the system, the probability instantly changes a
 
 **Question:** Is $$\binom{2}{\sqrt{3}i}$$ a qubit?
 <details>
-  <summary>Answer</summary>a
+  <summary>Click for answer.</summary>
   No, because it isn't normalized.
 </details>
 
@@ -58,7 +58,11 @@ In Calculus III, we often use $$\textbf{i},\textbf{j},\textbf{k}$$-notation to d
 
 In quantum mechanics, we have a different notation coming from physics, called **bra** and **ket** notation (put together, it sounds like "bracket").
 In place of $$\mathbf{i}$$ and $$\mathbf{j}$$, we use the symbols $$\ket{0}$$ and $$\ket{1}$$.
-With this in mind $$\binom{a}{b}$$ means the same thing as $$a\ket{0} + b\ket{1}$$.
+So for us
+
+$$a\ket{0} + b\ket{1}$$
+
+means the same thing as $$\binom{a}{b}$$.
 
 
 
