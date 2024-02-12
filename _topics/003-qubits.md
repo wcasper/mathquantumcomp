@@ -6,7 +6,7 @@ title: Qubits
 Quantum bits or **qubits** are the fundamental building blocks of quantum computers.
 They are analogous to classical bits in a computer -- the zeros and ones which are used to store basic information.
 However, unlike with classical bits, as single qubit contains much more information than a simple $$0$$ or a $$1$$.
-In particular, it can be thought of as existing in a state of uncertainty, with a certain probability of being one or the other $$0$$.
+In particular, it can be thought of as existing in a state of uncertainty: its either a $$0$$ or a $$1$$ with some probability.
 
 The real good stuff happens when we put more than one qubit together.
 Then qubits can exhibit quantum behaviors like **entanglement**, where the state of one qubit influences the state of another, even when they aren't very close together.
