@@ -58,11 +58,12 @@ In Calculus III, we often use $$\textbf{i},\textbf{j},\textbf{k}$$-notation to d
 
 In quantum mechanics, we have a different notation coming from physics, called **bra** and **ket** notation (put together, it sounds like "bracket").
 In place of $$\mathbf{i}$$ and $$\mathbf{j}$$, we use the symbols $$\ket{0}$$ and $$\ket{1}$$.
+Also, generic vector notation like $$\vec u$$ and $$\vec v$$ is replaced by $$\ket\phi$$ and $$\ket\psi$$.
 So for us
 
-$$a\ket{0} + b\ket{1}$$
+$$\ket\psi = a\ket{0} + b\ket{1}$$
 
-means the same thing as $$\binom{a}{b}$$.
+means the same thing as $$\vec v = \binom{a}{b}$$.
 
 
 
