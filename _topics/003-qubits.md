@@ -57,7 +57,7 @@ This kind of thing tends to happen with important topics, since many different d
 In Calculus III, we often use $$\textbf{i},\textbf{j},\textbf{k}$$-notation to describe vectors, so that $$a\textbf{i} + b\textbf{j} + c\textbf{k}$$ represents a vector pointing from the origin to the point $$(a,b,c)$$.
 
 In quantum mechanics, we have a different notation coming from physics, called **bra** and **ket** notation (put together, it sounds like "bracket").
-In place of $$\mathbf{i}$$ and $$\mathbf{j}$$, we use the symbols $$\ket{0}$$ and $$\ket{1}$$.
+In place of $$\mathbf{i}$$ and $$\mathbf{j}$$, we use the **ket** symbols $$\ket{0}$$ and $$\ket{1}$$.
 Also, generic vector notation like $$\vec u$$ and $$\vec v$$ is replaced by $$\ket\phi$$ and $$\ket\psi$$.
 So for us
 
