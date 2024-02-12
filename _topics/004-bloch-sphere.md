@@ -23,8 +23,9 @@ For example, the line passing through the origin and $$(i,2+i)$$ is the same as 
 
 So in the end we can describe lines uniquely by symbols $$[a:b]$$ where here $$a,b\in\mathbb{C}$$, with at least one nonzero, and with the rule that
 
-$$[a: b] = [c:d]\quad\text{if and only if}\quad \binom{c}{d}=\lambda\binom{a}{b}$$ for some nonzero $$\lambda\in\mathbb{C}$$.
+$$[a: b] = [c:d]\quad\text{if and only if}\quad \binom{c}{d}=\lambda\binom{a}{b}$$
 
+for some nonzero $$\lambda\in\mathbb{C}$$.
 Put in terms of equivalence relations, the symbols $$[a:b]$$ are what mathematicians call call **equivalence classes**.
 Then we can think about the complex projective line as being the set of symbols
 
