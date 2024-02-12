@@ -66,6 +66,15 @@ Algebraically, we see this is a problem, since we are *dividing by zero*.
 However, there's no need to worry!  Since $$[1: (x+iy)/(1-z)] = [1-z: (x+iy)]$$, it is actually quite natural to send this final point to $$[0:1]$$.
 In this way, we can think of the projective line $$\mathbb{CP}^1$$ and the sphere $$S^2$$ as being the same thing!
 
+**Question:** Under stereographic projection, where does the point $$(\sqrt{2}/2,\sqrt{2}/2,0)$$ go to?  What about $$(\sqrt{2}/2,0,\sqrt{2}/2)$$?
+<details>
+  <summary>Click for answer.</summary>
+  Based on the formula
+
+  $$P(\sqrt{2}/2,\sqrt{2}/2,0) = \frac{\sqrt{2}}{2}(1 + i) = e^{i\pi/4}\ \ \text{and}\ \ P(\sqrt{2}/2,0,\sqrt{2}/2) = \frac{1}{\sqrt{2}-1}$$
+
+</details>
+
 ## The Bloch sphere
 
 Starting with a qubit $$\ket\phi = a\ket0 + b\ket1$$, we can multiply it by any global phase factor $$e^{i\theta}$$ and get a new qubit which is indistinguishable from the first.
@@ -96,7 +105,7 @@ We will use the Bloch sphere later as an important tool in aiding our understand
   <summary>Click for answer.</summary>
   In spherical coordinates, the angles are
 
-  $$\theta = \pi/4\quad\text{and}\quad \phi = \pi/3$$.
+  $$\theta = \pi/4\quad\text{and}\quad \phi = \pi/3.$$
 
   Therefore the qubit is
 
