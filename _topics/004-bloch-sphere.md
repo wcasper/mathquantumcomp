@@ -37,7 +37,7 @@ $$\mathbb{CP}^1 = \{[a:b]: a,b\in\mathbb C,\ \ \text{and}\ \ ab\neq 0\}.$$
   Yes!  This is because $$\binom{1-i}{1+2i} = (1+i)\binom{2}{-1+3i}.$$
 </details>
 
-## $$\mathbb{CP}^1$$ viewed as a sphere
+### $$\mathbb{CP}^1$$ viewed as a sphere
 Geometrically the complex projective line is a two dimensional surface that looks just like a sphere!
 The way to see this is divvy up $$\mathbb{CP}^1$$ as
 
