@@ -64,7 +64,9 @@ Now an exception to this rule occurs when $$z=1$$, which geometrically is when w
 The shadow cast from this point seems to go infinitely far away from the origin.
 Algebraically, we see this is a problem, since we are *dividing by zero*.
 However, there's no need to worry!  Since $$[1: (x+iy)/(1-z)] = [1-z: (x+iy)]$$, it is actually quite natural to send this final point to $$[0:1]$$.
-In this way, we can think of the projective line $$\mathbb{CP}^1$$ and the sphere $$S^2$$ as being the same thing!
+Explicitly, $$P(0,0,1) = [1:0]$$.
+For this reason, $$[1:0]$$ is often called the **point at infinity**.
+In this way, we see that the projective line $$\mathbb{CP}^1$$ and the sphere $$S^2$$ are really the same surfaces.
 
 **Question:** Under stereographic projection, where does the point $$(\sqrt{2}/2,\sqrt{2}/2,0)$$ go to?  What about $$(\sqrt{2}/2,0,\sqrt{2}/2)$$?
 <details>
